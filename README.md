@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning MERN Stack
+- 💼 Currently I'm working as a Java Spring Boot
+- 🌱 My skills includes Java, Spring Boot, Angular & MySQL
 - 🔍 Open for Job Opportunities
 - 📫 How to reach me rahul7k7@gmail.com
 - 📄 Know about my experiences: http://rahul7k.netlify.app/
