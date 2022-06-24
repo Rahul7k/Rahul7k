@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rahul
-- 💼 Currently I'm working as a Java Spring Boot
+- 💼 Currently I'm working as a Java Spring Boot Developer
 - 🌱 My skills includes Java, Spring Boot, Angular & MySQL
 - 🔍 Open for Job Opportunities
 - 📫 How to reach me rahul7k7@gmail.com
