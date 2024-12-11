@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul
-- 💼 Currently I'm working as a Java Spring Boot Developer
-- 🌱 My skills includes Java, Spring Boot, Angular & MySQL
+- 💼 Currently I'm working as a Java Backend Developer
+- 🌱 My top skills includes Java, Spring Boot, Microservices
 - 🔍 Open for Job Opportunities
 - 📫 How to reach me rahul7k7@gmail.com
 - 📄 Know about my experiences: http://rahul7k.netlify.app/
